@@ -12,5 +12,12 @@
 </div>
 
 ## Contact me
-- [![telegram](https://user-images.githubusercontent.com/49402667/166088141-129efaa7-b150-4252-9533-09723158cd2b.png) Telegram](https://t.me/ethosa)
-- [![vk](https://user-images.githubusercontent.com/49402667/166088142-92d40ca4-1018-4e72-87ec-9653ad3fcc52.png) VK](https://vk.com/akihayase)
+
+<p align="center" width="100%">
+  <a href="https://t.me/ethosa" width="100%">
+    <img src="https://img.shields.io/badge/TG-A05EE5?style=for-the-badge&logo=telegram&logoColor=FAFAFA" alt="Telegram">
+  </a>
+  <a href="https://vk.com/akihayase" width="100%">
+    <img src="https://img.shields.io/badge/VK-A05EE5?style=for-the-badge&logo=vk&logoColor=FAFAFA" alt="Vk">
+  </a>
+</p>
