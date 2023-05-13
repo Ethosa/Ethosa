@@ -15,9 +15,12 @@
 
 <p align="center" width="100%">
   <a href="https://t.me/ethosa" width="100%">
-    <img src="https://img.shields.io/badge/TG-A05EE5?style=for-the-badge&logo=telegram&logoColor=FAFAFA" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://vk.com/akihayase" width="100%">
-    <img src="https://img.shields.io/badge/VK-A05EE5?style=for-the-badge&logo=vk&logoColor=FAFAFA" alt="Vk">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="Vk">
+  </a>
+  <a href="https://dev.to/ethosa" width="100%">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev">
   </a>
 </p>
