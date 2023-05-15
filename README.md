@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### :zap: Now I develop little social network for my college with [@horanchikk](https://github.com/horanchikk)
+### Hi there 👋 
 
 <div align="center">
 
