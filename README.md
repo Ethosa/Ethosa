@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+Open to job offers ✨
+
 Currently I'm working on [HappyX](https://github.com/HapticX/HappyX)
 
 <div align="center">
