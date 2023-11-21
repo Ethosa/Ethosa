@@ -13,6 +13,10 @@ Currently I'm working on [HappyX](https://github.com/HapticX/HappyX)
 
 </div>
 
+## Portfolio
+
+[Link to website](https://ethosa.github.io/)
+
 ## Contact me
 
 <p align="center" width="100%">
