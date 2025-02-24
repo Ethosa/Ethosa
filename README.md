@@ -8,8 +8,7 @@ Currently I'm working on [HappyX](https://github.com/HapticX/HappyX)
 
 |[![git stats](https://github-readme-stats.vercel.app/api?username=Ethosa&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethosa&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)|
 |:---:|:---:|
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ethosa&theme=tokyonight&show_icons=true&layout=compact" width="75%">
+|[![git stats](https://github-readme-stats.vercel.app/api/wakatime?username=ethosa&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|![Trophies](https://github-profile-trophy.vercel.app/?username=ethosa&no-bg=false&no-frame=true&theme=radical&margin-w=8&margin-h=8&column=3)|
 
 </div>
 
