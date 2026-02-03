@@ -8,7 +8,6 @@ Currently I'm working on [HappyX](https://github.com/HapticX/HappyX)
 
 |![git stats](./profile/stats.svg)|![Top Langs](./profile/top-langs.svg)|
 |:---:|:---:|
-|![git stats](./profile/wakatime.svg)|![Trophies](./profile/trophies.svg)|
 
 </div>
 
