@@ -6,9 +6,9 @@ Currently I'm working on [HappyX](https://github.com/HapticX/HappyX)
 
 <div align="center">
 
-|[![git stats](https://github-readme-stats.vercel.app/api?username=Ethosa&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethosa&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)|
+|![git stats](./profile/stats.svg)|![Top Langs](./profile/top-langs.svg)|
 |:---:|:---:|
-|[![git stats](https://github-readme-stats.vercel.app/api/wakatime?username=ethosa&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|![Trophies](https://github-profile-trophy.vercel.app/?username=ethosa&no-bg=false&no-frame=true&theme=radical&margin-w=8&margin-h=8&column=3)|
+|![git stats](./profile/wakatime.svg)|![Trophies](./profile/trophies.svg)|
 
 </div>
 
