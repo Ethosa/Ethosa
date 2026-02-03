@@ -45,7 +45,7 @@ jobs:
       - name: Generate trophies card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
-          card: trophies
+          card: stats
           options: 'username=ethosa&no-bg=false&no-frame=true&theme=radical&margin-w=8&margin-h=8&column=3'
           path: profile/trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
