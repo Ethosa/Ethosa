@@ -13,7 +13,7 @@ Currently I'm working on [HappyX](https://github.com/HapticX/HappyX)
 
 ## Portfolio
 
-[Link to website](https://ethosa.github.io/)
+[Link to website](https://ethosa.ru/)
 
 ## Contact me
 
